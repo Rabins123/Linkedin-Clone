@@ -1,0 +1,13 @@
+.app{
+    background-color: #f3f3ef;
+    display: flex;
+    flex-direction: column;
+}
+
+.app__body{
+    display: flex;
+    margin-top: 33px;
+    max-width: 1200px;
+    margin-left: 90px;
+    margin-right:20px;
+}
